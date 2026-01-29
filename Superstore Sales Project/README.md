@@ -7,18 +7,6 @@ To contribute to the success of a business by utilizing data analysis techniques
 ## Dataset Used
 - <a href="https://github.com/adityakulange/Power_Bi/blob/main/Superstore%20Sales%20Project/SuperStore%20Sales%20DataSet.xlsx">Superstore-Sales-Data</a>
 
-## Project Workflow
-
-1. Data Collection – Imported raw sales data
-2. Data Cleaning – Removed duplicates, handled missing values, standardized columns
-3. Data Modeling – Created relationships between tables
-4. DAX Measures – Calculated total sales, average sales, quantity sold, and max sales
-5. Visualization – Designed interactive charts, tables, slicers, and maps
-6. Insights Generation – Identified trends, patterns, and key business insights
-
-## Interactive Dashboard
-- <a href="https://github.com/adityakulange/Power_Bi/blob/main/Superstore%20Sales%20Project/SuperStore%20Sales%20Project.pdf">Superstore-Sales-Dashboard</a>
-
 ## DESCRIPTION
 
 The objective can be broken down into the following detailed components:
@@ -27,6 +15,18 @@ The objective can be broken down into the following detailed components:
 2. Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
 3. Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days
 4. Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction
+
+## Interactive Dashboard
+- <a href="https://github.com/adityakulange/Power_Bi/blob/main/Superstore%20Sales%20Project/SuperStore%20Sales%20Project.pdf">Superstore-Sales-Dashboard</a>
+
+## Project Workflow
+
+1. Data Collection – Imported raw sales data
+2. Data Cleaning – Removed duplicates, handled missing values, standardized columns
+3. Data Modeling – Created relationships between tables
+4. DAX Measures – Calculated total sales, average sales, quantity sold, and max sales
+5. Visualization – Designed interactive charts, tables, slicers, and maps
+6. Insights Generation – Identified trends, patterns, and key business insights
 
 ## Dashboard
 
