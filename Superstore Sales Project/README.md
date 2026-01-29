@@ -30,10 +30,12 @@ The objective can be broken down into the following detailed components:
 
 ## Dashboard
 
-Superstore Sales Dashboard
+## Superstore Sales Dashboard
+
 <img width="1436" height="800" alt="Screenshot superstore Dashboard" src="https://github.com/user-attachments/assets/486ca8cd-2136-4a76-9a97-3f185814aaa9" />
 
-Superstore Sales Forecast
+## Superstore Sales Forecast
+
 <img width="1437" height="804" alt="Screenshot 15 Days Forecast Dashboard" src="https://github.com/user-attachments/assets/7295f3cb-65af-4dcf-882e-8cae5b26a1c0" />
 
 ## Outcome
