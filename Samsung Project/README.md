@@ -9,20 +9,20 @@ The dashboard provides end-to-end visibility into revenue, profit, supplier effi
 - <a href="https://github.com/adityakulange/Power_Bi/tree/main/Samsung%20Project/Files">Samsung_Supply_Chain</a>
 
 ## Dashboard Sections
-🔹 Supplier Analysis
+1. Supplier Analysis
 -Supplier-wise average lead time
 -Identification of suppliers with best delivery performance
 
-🔹 Inventory Analysis
+2. Inventory Analysis
 -Inventory stock by product name
 -Inventory value and quantity overview
 
-🔹 Shipment Analysis
+3. Shipment Analysis
 -Total shipments and delivered quantity
 -Carrier-wise shipment delays
 -Shipment quantity and delay insights
 
-🔹 Customer & Revenue Analysis
+4. Customer & Revenue Analysis
 -Customer/platform-wise total revenue
 -Identification of highest revenue-generating platforms
  -Amazon
@@ -39,7 +39,5 @@ The dashboard provides end-to-end visibility into revenue, profit, supplier effi
 - Profit Margin: 0.27%
 - Perfect Order Rate: 75%
 - Total Shipments: 7,500
-
-Delivered Quantity: 187K
-
-Inventory Quantity: 160K
+- Delivered Quantity: 187K
+- Inventory Quantity: 160K
