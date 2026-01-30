@@ -1,4 +1,4 @@
-# Samsung-Data-Analysis (Interactive Dashboard creation using Power Bi Excel)
+# Samsung-Data-Analysis (Interactive Dashboard creation using Power Bi)
 
 ## Project Overview
 
