@@ -10,26 +10,26 @@ The dashboard provides end-to-end visibility into revenue, profit, supplier effi
 
 ## Dashboard Sections
 1. Supplier Analysis
--Supplier-wise average lead time
--Identification of suppliers with best delivery performance
+- Supplier-wise average lead time
+- Identification of suppliers with best delivery performance
 
 2. Inventory Analysis
--Inventory stock by product name
--Inventory value and quantity overview
+- Inventory stock by product name
+- Inventory value and quantity overview
 
 3. Shipment Analysis
--Total shipments and delivered quantity
--Carrier-wise shipment delays
--Shipment quantity and delay insights
+- Total shipments and delivered quantity
+- Carrier-wise shipment delays
+- Shipment quantity and delay insights
 
 4. Customer & Revenue Analysis
--Customer/platform-wise total revenue
--Identification of highest revenue-generating platforms
- -Amazon
- -Flipkart
- -Best Buy
- -Media Markt
- -Samsung Store
+- Customer/platform-wise total revenue
+- Identification of highest revenue-generating platforms
+ -- Amazon
+ - Flipkart
+ - Best Buy
+ - Media Markt
+ - Samsung Store
 
 ## Key KPIs
 
