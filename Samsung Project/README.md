@@ -25,11 +25,14 @@ The dashboard provides end-to-end visibility into revenue, profit, supplier effi
 4. Customer & Revenue Analysis
 - Customer/platform-wise total revenue
 - Identification of highest revenue-generating platforms
- -- Amazon
+ - Amazon
  - Flipkart
  - Best Buy
  - Media Markt
  - Samsung Store
+
+## Interactive Dashboard
+- <a href="https://github.com/adityakulange/Power_Bi/blob/main/Samsung%20Project/Samsung%20Project.pdf">Samsung_Dashboard</a>
 
 ## Key KPIs
 
@@ -41,3 +44,10 @@ The dashboard provides end-to-end visibility into revenue, profit, supplier effi
 - Total Shipments: 7,500
 - Delivered Quantity: 187K
 - Inventory Quantity: 160K
+
+## Dashboard
+<img width="1307" height="737" alt="Screenshot Samsung Dashboard" src="https://github.com/user-attachments/assets/09ade857-8f86-4aab-93b1-40218b69a505" />
+
+
+##  Conclusion
+This project provides a clear and interactive view of Samsung’s supply chain performance using Power BI. It helps identify key insights related to revenue, inventory, suppliers, and shipment efficiency, supporting better data-driven business decisions.
