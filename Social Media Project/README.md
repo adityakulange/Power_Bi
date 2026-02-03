@@ -8,7 +8,7 @@ This project analyzes data and presents key insights through an interactive dash
 - <a href="https://github.com/adityakulange/Power_Bi/blob/main/Social%20Media%20Project/social_media_engagement1.csv">Social-Media-Dataset</a>
 
 ## KPIs
-- Goal
+- Goal : 
 Track and analyze content engagement metrics.
 - Guidelines
 1. Scrape or use APIs from platforms like Instagram or YouTube.
