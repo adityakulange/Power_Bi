@@ -1,0 +1,101 @@
+EmployeeNumber,Age,Attrition,Department,JobRole,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,OverTime,Gender,Education,PerformanceRating
+1001,50,No,Human Resources,Laboratory Technician,15087,20,2,2,No,Female,3,1
+1002,27,No,Research & Development,Sales Executive,42426,6,4,4,No,Female,2,2
+1003,31,No,Research & Development,Research Scientist,39754,5,1,2,Yes,Female,3,3
+1004,31,No,Research & Development,Sales Executive,20581,0,3,3,No,Female,3,1
+1005,47,No,Research & Development,HR Manager,57885,20,2,2,No,Male,4,4
+1006,49,Yes,Research & Development,HR Manager,38922,17,1,2,No,Female,3,4
+1007,53,Yes,Sales,HR Manager,29820,5,4,4,Yes,Female,5,1
+1008,54,Yes,Human Resources,Sales Executive,24347,17,4,2,Yes,Female,5,3
+1009,40,Yes,Human Resources,Sales Executive,16176,19,1,4,Yes,Male,1,1
+1010,35,Yes,Research & Development,Research Scientist,77942,3,2,2,Yes,Female,1,4
+1011,60,Yes,Research & Development,Research Scientist,68669,8,4,4,No,Female,3,2
+1012,49,Yes,Sales,HR Manager,28597,14,2,3,No,Male,1,2
+1013,43,No,Human Resources,Laboratory Technician,78950,1,1,3,Yes,Female,2,4
+1014,23,Yes,Sales,Laboratory Technician,71557,0,1,3,Yes,Female,4,4
+1015,32,Yes,Human Resources,HR Manager,16451,1,4,2,No,Male,4,4
+1016,40,No,Research & Development,Sales Executive,67778,15,3,3,No,Male,2,3
+1017,36,Yes,Human Resources,Sales Executive,19214,14,4,3,Yes,Male,1,1
+1018,26,No,Human Resources,Laboratory Technician,74845,6,2,1,Yes,Female,5,2
+1019,56,Yes,Human Resources,HR Manager,38973,3,1,1,No,Female,2,3
+1020,35,Yes,Research & Development,Research Scientist,62883,12,4,1,No,Male,4,3
+1021,47,Yes,Sales,Research Scientist,58686,5,1,2,No,Male,3,1
+1022,60,No,Research & Development,Laboratory Technician,25966,20,1,1,No,Male,1,1
+1023,23,No,Sales,Sales Executive,80449,12,2,1,Yes,Male,1,2
+1024,38,Yes,Sales,HR Manager,79025,9,4,1,No,Male,4,4
+1025,27,Yes,Human Resources,Research Scientist,67642,13,1,1,No,Female,1,4
+1026,54,Yes,Human Resources,HR Manager,22499,17,1,2,Yes,Male,5,2
+1027,47,No,Sales,Research Scientist,31528,4,1,3,Yes,Female,5,2
+1028,42,Yes,Research & Development,HR Manager,87614,12,4,1,No,Female,5,4
+1029,30,Yes,Research & Development,HR Manager,52351,2,3,2,Yes,Female,1,1
+1030,39,Yes,Human Resources,Laboratory Technician,21408,15,4,1,Yes,Male,1,2
+1031,52,Yes,Research & Development,Sales Executive,89963,17,3,3,Yes,Male,4,3
+1032,23,No,Research & Development,Research Scientist,53210,0,4,2,No,Male,1,2
+1033,56,No,Sales,Research Scientist,52427,12,4,4,Yes,Female,5,1
+1034,60,Yes,Research & Development,Laboratory Technician,57693,20,2,2,No,Male,1,3
+1035,60,Yes,Sales,Research Scientist,82890,12,2,2,No,Male,3,2
+1036,44,No,Sales,HR Manager,68894,7,2,3,No,Male,5,3
+1037,41,No,Sales,Research Scientist,73316,17,2,4,No,Male,4,4
+1038,49,Yes,Sales,Sales Executive,46012,13,2,2,Yes,Male,3,2
+1039,57,No,Sales,HR Manager,51504,2,1,4,No,Female,3,1
+1040,53,Yes,Research & Development,Sales Executive,50012,1,4,1,No,Male,3,3
+1041,36,No,Sales,Research Scientist,49142,20,1,2,Yes,Female,4,2
+1042,53,No,Research & Development,Laboratory Technician,89961,10,3,4,No,Male,5,4
+1043,45,Yes,Research & Development,Laboratory Technician,72140,19,3,2,No,Male,5,1
+1044,32,Yes,Research & Development,HR Manager,44492,0,3,2,Yes,Male,4,1
+1045,33,No,Sales,Sales Executive,50027,18,3,2,Yes,Male,1,4
+1046,54,Yes,Research & Development,Sales Executive,78715,18,4,4,No,Female,4,1
+1047,37,Yes,Research & Development,Sales Executive,73050,5,4,1,Yes,Female,2,4
+1048,32,No,Research & Development,HR Manager,84265,8,2,4,No,Male,2,3
+1049,50,Yes,Research & Development,Sales Executive,34344,2,3,1,Yes,Female,2,4
+1050,52,No,Sales,HR Manager,57413,11,4,4,No,Male,2,4
+1051,52,No,Human Resources,Research Scientist,32361,11,3,3,Yes,Male,1,3
+1052,37,No,Research & Development,Research Scientist,73232,8,1,4,No,Male,3,3
+1053,56,Yes,Sales,Sales Executive,40082,12,1,1,Yes,Male,5,3
+1054,48,Yes,Research & Development,Research Scientist,58522,14,1,4,Yes,Male,4,1
+1055,53,No,Sales,Sales Executive,82159,12,2,1,No,Female,2,3
+1056,31,Yes,Sales,Sales Executive,38083,2,3,1,No,Female,2,3
+1057,55,No,Sales,Sales Executive,82502,1,1,3,Yes,Female,2,4
+1058,49,No,Research & Development,Sales Executive,20249,11,4,3,No,Female,4,2
+1059,37,Yes,Sales,HR Manager,52224,9,3,2,No,Female,3,3
+1060,56,No,Sales,HR Manager,48238,11,3,2,No,Female,4,4
+1061,24,Yes,Research & Development,Research Scientist,86383,4,2,3,Yes,Female,3,1
+1062,23,Yes,Sales,Laboratory Technician,30651,6,4,3,No,Female,2,2
+1063,51,Yes,Research & Development,Laboratory Technician,69121,15,2,3,No,Male,2,1
+1064,57,No,Research & Development,Research Scientist,74327,11,4,3,Yes,Male,2,4
+1065,41,Yes,Human Resources,Laboratory Technician,55286,1,4,4,Yes,Male,2,1
+1066,30,Yes,Human Resources,Sales Executive,19299,3,3,4,Yes,Male,4,4
+1067,22,Yes,Human Resources,HR Manager,42814,12,2,3,Yes,Female,1,4
+1068,43,No,Research & Development,HR Manager,56615,7,4,3,No,Female,2,4
+1069,40,No,Human Resources,Laboratory Technician,86268,11,2,4,No,Male,3,2
+1070,48,Yes,Sales,HR Manager,51454,2,1,2,Yes,Female,1,1
+1071,51,Yes,Research & Development,Sales Executive,81894,1,4,1,Yes,Male,3,2
+1072,32,Yes,Human Resources,Research Scientist,58898,0,1,1,No,Female,3,2
+1073,29,Yes,Research & Development,Sales Executive,19239,0,2,2,Yes,Female,4,4
+1074,23,Yes,Sales,Laboratory Technician,45394,17,4,3,Yes,Female,3,3
+1075,60,Yes,Human Resources,Laboratory Technician,27858,10,4,1,Yes,Male,2,1
+1076,23,No,Sales,Research Scientist,54364,14,1,4,No,Male,4,2
+1077,29,No,Sales,HR Manager,73782,10,2,4,No,Male,3,3
+1078,43,No,Research & Development,Sales Executive,73706,0,2,1,No,Female,2,2
+1079,30,Yes,Sales,Research Scientist,50506,14,1,4,Yes,Male,3,3
+1080,52,No,Research & Development,HR Manager,44584,2,2,4,Yes,Female,5,2
+1081,48,Yes,Sales,Research Scientist,26679,6,4,4,No,Male,4,1
+1082,26,Yes,Sales,Research Scientist,35565,12,3,1,Yes,Female,2,2
+1083,31,Yes,Research & Development,Sales Executive,73133,17,3,4,No,Female,5,2
+1084,41,No,Sales,Research Scientist,25396,6,2,4,No,Male,3,4
+1085,38,No,Research & Development,HR Manager,40723,19,2,3,No,Female,2,2
+1086,43,No,Human Resources,Sales Executive,45055,16,1,2,Yes,Female,3,1
+1087,34,No,Human Resources,Research Scientist,49925,20,3,3,Yes,Male,4,1
+1088,45,No,Research & Development,Research Scientist,81063,6,2,4,Yes,Male,5,4
+1089,25,Yes,Human Resources,Laboratory Technician,21573,4,1,4,No,Female,1,2
+1090,34,No,Human Resources,HR Manager,72155,6,2,2,Yes,Female,5,2
+1091,35,No,Research & Development,HR Manager,33071,20,2,3,No,Male,5,1
+1092,40,No,Research & Development,HR Manager,56383,10,2,3,No,Female,3,4
+1093,60,No,Human Resources,Research Scientist,44532,13,1,1,No,Female,4,3
+1094,24,No,Sales,Sales Executive,48159,14,2,3,No,Male,3,1
+1095,36,No,Research & Development,Laboratory Technician,58602,6,2,4,No,Male,1,2
+1096,35,Yes,Human Resources,HR Manager,57917,7,1,1,Yes,Female,3,3
+1097,46,Yes,Human Resources,Research Scientist,73823,2,3,1,No,Male,3,1
+1098,53,No,Research & Development,HR Manager,34122,1,1,2,Yes,Male,1,2
+1099,48,No,Human Resources,Research Scientist,55246,15,3,1,Yes,Female,4,4
+1100,56,Yes,Human Resources,Laboratory Technician,36933,19,1,1,Yes,Female,5,1
