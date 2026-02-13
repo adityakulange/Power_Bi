@@ -1,4 +1,4 @@
-# Employee Attrition Dashboard ((Interactive Dashboard creation using Power Bi))
+# Employee Attrition Dashboard (Interactive Dashboard creation using Power Bi)
 
 ## Project Overview
 
